@@ -1,12 +1,12 @@
 title: "Prange Lab"
 email: "info@prangelab.org"
 description: "Epigenetic and transcriptional regulation in cardiometabolic disease"
-baseurl: ""
-url: "https://prangelab.org"
+url: "https://prangelab.org"   # custom domain
+baseurl: ""                    # must stay empty for orgname.github.io root
+
 theme: jekyll-theme-midnight
 github_username: prangelab
 
-# Navigation
 nav:
   - name: Home
     link: /
