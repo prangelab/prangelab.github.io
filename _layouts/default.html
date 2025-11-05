@@ -28,8 +28,10 @@
 
       <section>
         <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.tagline | default: site.description | default: site.github.project_tagline }}</p>
+          <header class="page-header" role="banner" style="text-align:center;">
+            <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+            <h2 class="project-tagline">{{ site.tagline | default: site.description }}</h2>
+          </header>
           <hr>
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
