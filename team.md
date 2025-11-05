@@ -33,7 +33,3 @@ He is currently embedded in the Department of Experimental Vascular Medicine (Am
 - **Lisa Willemsen** — PhD Graduate  
 - **Femke Horstman** — MSc Intern  
 - **Francesco Vinciguerra** — MSc Intern  
-
----
-
-© {{ site.time | date: "%Y" }} Koen Prange
