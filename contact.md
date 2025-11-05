@@ -5,7 +5,7 @@ title: Contact
 
 # Contact
 
-**PrangeLab**  
+**Prange Lab**  
 Department of Experimental Vascular Medicine  
 Amsterdam UMC, location AMC  
 Meibergdreef 9, 1105 AZ Amsterdam, The Netherlands  
