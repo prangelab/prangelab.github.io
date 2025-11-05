@@ -12,10 +12,17 @@
   </head>
 
   <body>
-    <header class="page-header" role="banner" style="text-align:center;">
+    <header class="page-header" role="banner"
+      style="
+        background:
+          linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+          url('{{ '/assets/images/banner.jpg' | relative_url }}') center/contain no-repeat;
+        background-color: #000;
+      ">
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
     </header>
+
 
     {% include nav.html %}
 
