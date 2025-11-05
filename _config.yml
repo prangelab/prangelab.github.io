@@ -4,11 +4,8 @@ description: "Epigenetic and transcriptional regulation in cardiometabolic disea
 url: "https://prangelab.org"   # custom domain
 baseurl: ""                    # must stay empty for orgname.github.io root
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 github_username: prangelab
-
-sass:
-  sass_dir: assets/css
 
 nav:
   - name: Home
