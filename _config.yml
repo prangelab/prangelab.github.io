@@ -5,7 +5,6 @@ url: "https://prangelab.org"   # custom domain
 baseurl: ""                    # must stay empty for orgname.github.io root
 
 theme: jekyll-theme-midnight
-show_downloads: false
 github_username: prangelab
 
 nav:
