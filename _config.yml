@@ -6,6 +6,7 @@ baseurl: ""                    # must stay empty for orgname.github.io root
 
 theme: jekyll-theme-cayman
 github_username: prangelab
+show_nav: true
 
 nav:
   - name: Home
