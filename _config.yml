@@ -7,12 +7,10 @@ baseurl: ""
 theme: jekyll-theme-cayman
 github_username: prangelab
 
-# Optional page order (used by Cayman if present)
 collections:
   pages:
     output: true
 
-# Optional metadata for navigation order
 defaults:
   - scope:
       path: ""
@@ -20,7 +18,6 @@ defaults:
     values:
       layout: default
 
-# Page ordering (optional if you want specific order)
 nav_order:
   index.md: 1
   research.md: 2
