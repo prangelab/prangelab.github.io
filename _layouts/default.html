@@ -1,5 +1,9 @@
 ---
 ---
+{% capture head_path %}
+{{ site.theme | append: "/_includes/head.html" }}
+{% endcapture %}
+{% include {{ head_path }} %}
 
 {% include head.html %}
 <header class="page-header" role="banner">
