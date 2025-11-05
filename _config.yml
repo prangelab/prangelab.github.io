@@ -6,21 +6,3 @@ baseurl: ""
 
 theme: jekyll-theme-cayman
 github_username: prangelab
-
-collections:
-  pages:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: default
-
-nav_order:
-  index.md: 1
-  research.md: 2
-  publications.md: 3
-  team.md: 4
-  contact.md: 5
