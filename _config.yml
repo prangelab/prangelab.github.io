@@ -1,21 +1,29 @@
 title: "Prange Lab"
 email: "info@prangelab.org"
 description: "Epigenetic and transcriptional regulation in cardiometabolic disease"
-url: "https://prangelab.org"   # custom domain
-baseurl: ""                    # must stay empty for orgname.github.io root
+url: "https://prangelab.org"
+baseurl: ""
 
 theme: jekyll-theme-cayman
 github_username: prangelab
-show_nav: true
 
-nav:
-  - name: Home
-    link: /
-  - name: Research
-    link: /research
-  - name: Publications
-    link: /publications
-  - name: Team
-    link: /team
-  - name: Contact
-    link: /contact
+# Optional page order (used by Cayman if present)
+collections:
+  pages:
+    output: true
+
+# Optional metadata for navigation order
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+# Page ordering (optional if you want specific order)
+nav_order:
+  index.md: 1
+  research.md: 2
+  publications.md: 3
+  team.md: 4
+  contact.md: 5
