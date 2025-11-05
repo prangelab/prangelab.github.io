@@ -11,7 +11,9 @@ Depuydt MAC<sup>\*</sup>, **Prange KHM**<sup>\*</sup>, Slenders L<sup>\*</sup>, 
 
 **Prange K**, Mandoli A, Kuznetsova T, Wang S-Y, Sotoca AM, Marneth AE, van der Reijden BA, Stunnenberg HG, Martens JHA. **MLL-AF9 and MLL-AF4 oncofusion proteins bind a distinct enhancer repertoire and target the RUNX1 program in 11q23 acute myeloid leukemia.** *Oncogene* (2017) 36(23):3346–3356. DOI: [10.1038/onc.2016.488](https://doi.org/10.1038/onc.2016.488)
 
-<span style="font-size:8px;"><sup>\*</sup> = Shared First Authors</span>
+<p style="font-size:0.7em; color:#555;">
+  <sup>*</sup> = Shared first authors
+</p>
 ---
 
 # Full Publication List
