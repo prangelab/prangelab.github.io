@@ -1,21 +1,29 @@
 ---
 ---
-{% capture head_path %}
-{{ site.theme | append: "/_includes/head.html" }}
-{% endcapture %}
-{% include {{ head_path }} %}
 
-{% include head.html %}
-<header class="page-header" role="banner">
-  <h1 class="project-name">{{ site.title }}</h1>
-  <h2 class="project-tagline">{{ site.description }}</h2>
-</header>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
 
-{% include nav.html %}
+  <body>
+    <header class="page-header" role="banner" style="text-align:center;">
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+    </header>
 
-<main id="content" class="main-content" role="main">
-  {{ content }}
-  <footer class="site-footer">
-    <span>© {{ site.time | date: "%Y" }} Koen Prange</span>
-  </footer>
-</main>
+    {% include nav.html %}
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+      <footer class="site-footer" style="text-align:center; margin-top:2rem;">
+        <span>© {{ site.time | date: "%Y" }} Koen Prange</span>
+      </footer>
+    </main>
+  </body>
+</html>
