@@ -16,7 +16,3 @@ Prange K, Mandoli A, Kuznetsova T, Wang S-Y, Sotoca AM, Marneth AE, van der Reij
 # Full Publication List
 
 <iframe src="https://scholar.google.com/citations?user=YOURIDHERE&hl=en" width="100%" height="600" style="border:0;"></iframe>
-
----
-
-© {{ site.time | date: "%Y" }} Koen Prange
