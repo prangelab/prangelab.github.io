@@ -17,5 +17,6 @@ Depuydt MAC<sup>\*</sup>, **Prange KHM**<sup>\*</sup>, Slenders L<sup>\*</sup>, 
 ---
 
 # Full Publication List
-
-<iframe src="https://scholar.google.com/citations?user=WJ-vMlUAAAAJ&hl=en" width="100%" height="600" style="border:0;"></iframe>
+<a href="https://scholar.google.com/citations?user=WJ-vMlUAAAAJ&hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Scholar-View%20Profile-blue?logo=google-scholar" alt="Google Scholar">
+</a>
