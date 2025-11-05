@@ -12,7 +12,3 @@ We investigate how chromatin-regulating enzymes shape immune activation in healt
 # Immune–stromal crosstalk in cardiometabolic disease
 
 We study how immune cells interact with metabolic and vascular tissues to sustain chronic inflammation. Through large-scale single-cell and spatial transcriptomic profiling of human patient cohorts and tissue biobanks, we reconstruct immune–stromal communication networks driving metabolic dysfunction in cardiometabolic diseases such as obesity, MASLD, and atherosclerosis. As part of these efforts, we contributed to one of the first single-cell atlases of human atherosclerotic plaques, which revealed distinct macrophage and stromal phenotypes linked to plaque stability and inflammation. These efforts build on close integration with translational cohorts, including longitudinal and intervention studies, to connect molecular changes to clinical outcomes. In the long term, we aim to translate these insights into predictive models that may help refine patient selection for metabolic surgery and guide more personalized treatment strategies in cardiometabolic disease.
-
----
-
-© {{ site.time | date: "%Y" }} Koen Prange
