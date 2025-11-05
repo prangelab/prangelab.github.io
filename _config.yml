@@ -1,0 +1,20 @@
+title: "Prange Lab"
+email: "info@prangelab.org"
+description: "Epigenetic and transcriptional regulation in cardiometabolic disease"
+baseurl: ""
+url: "https://prangelab.org"
+theme: jekyll-theme-midnight
+github_username: prangelab
+
+# Navigation
+nav:
+  - name: Home
+    link: /
+  - name: Research
+    link: /research
+  - name: Publications
+    link: /publications
+  - name: Team
+    link: /team
+  - name: Contact
+    link: /contact
